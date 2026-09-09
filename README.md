@@ -8,9 +8,10 @@ I love solving real-world problems by building intelligent systems. Driven by pu
 
 ### About Me
 
-- 🧠 **Curiosity-Driven Developer:** Whenever I encounter a problem, my immediate thought is: *"How can I solve this with tech?"*
-- 🛠️ **Idea to Execution:** If an idea pops into my head, chances are high that I'm going to build it.
-- 🔬 **The Private Innovation Lab:** I have built **30+ repositories** in private. Solving my own daily challenges, experimenting with new concepts, and building niche tools is my favorite hobby.
+-  Whenever I encounter a problem, my immediate thought is: *"How can I solve this with tech?"*
+- If an idea pops into my head, chances are high that I'm going to build it.
+- I have built **30+ repositories** in private. Solving my own daily challenges, experimenting with new concepts, and building niche tools is my favorite hobby.
+
 - 🚀 **Next Horizon:** Deep diving into **Generative AI & Agentic AI Systems**.
 
 ---
