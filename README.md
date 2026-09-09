@@ -1,12 +1,12 @@
 # Hi there, I'm Suraj Bhandari 👋
 
-### 🤖 AI/ML Enthusiast | Problem Solver | Computer Engineering @ Thapar Institute
+### AI/ML Enthusiast | Problem Solver | Computer Engineering @ Thapar Institute
 
 I love solving real-world problems by building intelligent systems. Driven by pure curiosity, my philosophy is simple: if a problem exists, there is an algorithmic way to solve it.
 
 ---
 
-### 💡 About Me
+### About Me
 
 - 🧠 **Curiosity-Driven Developer:** Whenever I encounter a problem, my immediate thought is: *"How can I solve this with tech?"*
 - 🛠️ **Idea to Execution:** If an idea pops into my head, chances are high that I'm going to build it.
@@ -15,7 +15,7 @@ I love solving real-world problems by building intelligent systems. Driven by pu
 
 ---
 
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 
 - **Languages:** Python, SQL
 - **Machine Learning & Data Science:** Scikit-Learn, NumPy, Pandas, Data Analysis & Wrangling
@@ -25,7 +25,7 @@ I love solving real-world problems by building intelligent systems. Driven by pu
 
 ---
 
-### ⚡ Fun Facts
+### Fun Facts
 - 🧃 **100% Caffeine-Free:** I don't drink coffee or tea — my code is powered strictly by curiosity!
 - 💧 **Hydration Champion:** I drink 5 liters of water every single day! 
 
