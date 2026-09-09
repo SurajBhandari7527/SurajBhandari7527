@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Suraj Bhandari 👋
 
-<!--
-**SurajBhandari7527/SurajBhandari7527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI/ML Enthusiast | Problem Solver | Computer Engineering @ Thapar Institute
 
-Here are some ideas to get you started:
+I love solving real-world problems by building intelligent systems. Driven by pure curiosity, my philosophy is simple: if a problem exists, there is an algorithmic way to solve it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 About Me
+
+- 🧠 **Curiosity-Driven Developer:** Whenever I encounter a problem, my immediate thought is: *"How can I solve this with tech?"*
+- 🛠️ **Idea to Execution:** If an idea pops into my head, chances are high that I'm going to build it.
+- 🔬 **The Private Innovation Lab:** I have built **30+ repositories** in private. Solving my own daily challenges, experimenting with new concepts, and building niche tools is my favorite hobby.
+- 🚀 **Next Horizon:** Deep diving into **Generative AI & Agentic AI Systems**.
+
+---
+
+### 🛠️ Technical Toolkit
+
+- **Languages:** Python, SQL
+- **Machine Learning & Data Science:** Scikit-Learn, NumPy, Pandas, Data Analysis & Wrangling
+- **Deep Learning & NLP:** PyTorch, Neural Networks, Hugging Face
+- **Backend & APIs:** FastAPI, REST APIs
+- **Tools & Environments:** Git, GitHub, Docker, VS Code, Jupyter Notebooks
+
+---
+
+### ⚡ Fun Facts
+- 🧃 **100% Caffeine-Free:** I don't drink coffee or tea — my code is powered strictly by curiosity!
+- 💧 **Hydration Champion:** I drink 5 liters of water every single day! 
+
+---
+
+*“If you can think it, you can build it.”*
